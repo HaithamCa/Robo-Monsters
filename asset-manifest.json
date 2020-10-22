@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Robo-Monsters/static/css/main.ccc30c38.chunk.css",
+    "main.js": "/Robo-Monsters/static/js/main.41be80c9.chunk.js",
+    "main.js.map": "/Robo-Monsters/static/js/main.41be80c9.chunk.js.map",
+    "runtime-main.js": "/Robo-Monsters/static/js/runtime-main.443150bf.js",
+    "runtime-main.js.map": "/Robo-Monsters/static/js/runtime-main.443150bf.js.map",
+    "static/js/2.e1627e68.chunk.js": "/Robo-Monsters/static/js/2.e1627e68.chunk.js",
+    "static/js/2.e1627e68.chunk.js.map": "/Robo-Monsters/static/js/2.e1627e68.chunk.js.map",
+    "index.html": "/Robo-Monsters/index.html",
+    "precache-manifest.2f88fc6cb36e3e18ea73770b3f673dac.js": "/Robo-Monsters/precache-manifest.2f88fc6cb36e3e18ea73770b3f673dac.js",
+    "service-worker.js": "/Robo-Monsters/service-worker.js",
+    "static/css/main.ccc30c38.chunk.css.map": "/Robo-Monsters/static/css/main.ccc30c38.chunk.css.map",
+    "static/js/2.e1627e68.chunk.js.LICENSE.txt": "/Robo-Monsters/static/js/2.e1627e68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.443150bf.js",
+    "static/js/2.e1627e68.chunk.js",
+    "static/css/main.ccc30c38.chunk.css",
+    "static/js/main.41be80c9.chunk.js"
+  ]
+}
